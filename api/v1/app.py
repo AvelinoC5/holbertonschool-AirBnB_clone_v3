@@ -1,11 +1,11 @@
 #!/usr/bin/python3
 """
-Starting the API!
+Starting and Implementing the API 
 """
 
 from os import getenv
 from flask import Flask, make_response, jsonify
-from flask_cors import CORS
+#from flask_cors import CORS
 from models import storage
 from api.v1.views import app_views
 
