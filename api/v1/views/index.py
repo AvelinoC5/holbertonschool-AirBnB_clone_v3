@@ -1,6 +1,5 @@
-
 #!/usr/bin/python3
-"""Main file!"""
+"""Main Starting file!"""
 from models import storage
 from models.amenity import Amenity
 from models.city import City
