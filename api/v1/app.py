@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Starting and Implementing the API 
+Starting and Implementing the API
 """
 
 from os import getenv
